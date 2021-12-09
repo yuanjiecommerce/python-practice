@@ -1,0 +1,18 @@
+in command line:
+
+	echo "something" >> fileName.txt // to create a file with content
+
+
+	rm empty emptyFolderName
+	rm -r (means recursively) stuffedFolderName
+
+	git config --global user.email "youremail@xx.com"
+	git config --global user.name "yourNameOnGithub"
+
+	git config --global --list  // show global persnal info
+
+	git clone yourRepoUrl
+
+	git status // check difference in 3 phases
+
+	
